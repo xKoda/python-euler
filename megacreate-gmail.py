@@ -17,7 +17,7 @@ output_file_dir = "/root/megacreate/OUTPET.txt"
 #Command/absolute path to call megareg over torsocks (or without it if not using tor)
 torsocks_megareg_dir = "torsocks megareg"
 
-#Your gmail account name (without @gmail.com)
+#gmail account name (without @gmail.com)
 gmail_acc="apitestingtopkek"
 
 #Whether to use tor
